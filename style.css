@@ -1,0 +1,100 @@
+
+body {
+    margin: 0px;
+    background-color: #758aad;
+    background-image: url("https://www.transparenttextures.com/patterns/clean-textile.png");
+
+}
+
+
+
+
+.banner {
+    background-color: #dadde0;
+    background-color: #7d8ead;
+}
+
+.banner-item {
+    padding-top: 12px;
+    color: #464BB4;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#linkedin-icon {
+    height: 40px;
+    width: 50px;
+    margin-left: 40px;
+    margin-top: 8px;
+}
+
+#github-icon {
+    height: 50px;
+    width: 50px;
+    margin-top: 3px;
+    margin-left: 20px;
+    margin-right: 15px;
+}
+
+#landing {
+    color: #464BB4;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.photo {
+    height: 200px;
+    width 175px;
+}
+
+.section-title {
+    font-family: 'Montserrat', sans-serif;
+    color: #464BB4;
+    font-weight: 600;
+}
+
+.about {
+    /*height: 445px;*/
+    width: 100%;
+    padding-top: 30px;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#about-text {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.skills-icon {
+    color: #464BB4;
+}
+
+.portfolio-button {
+    background-color: #464BB4;
+
+}
+.portfolio-img {
+    object-fit: cover;
+    width: 100%;
+    height: 15vw;
+}
+
+.creature-img {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #9967e4;
+}
+
+#connect-form {
+    color: #464BB4;
+}
+
+#submit-button {
+    margin-top: 2px;
+    background-color: #464BB4;
+}
