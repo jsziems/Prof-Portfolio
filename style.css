@@ -1,9 +1,6 @@
 
 body {
     margin: 0px;
-    background-color: #758aad;
-    background-image: url("https://www.transparenttextures.com/patterns/clean-textile.png");
-
 }
 
 
@@ -11,13 +8,11 @@ body {
 
 .banner {
     background-color: #dadde0;
-    background-color: #7d8ead;
 }
 
 .banner-item {
     padding-top: 12px;
     color: #464BB4;
-    color: black;
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     font-weight: 500;
